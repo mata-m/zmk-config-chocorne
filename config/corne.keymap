@@ -46,7 +46,7 @@
 // |     | UNDO | CUT  | COPY  | PASTE |      |    |      |      |      |      |      | CAPS  |
 //                          | GUI | LWR | ENT |    | SPC | RSE  | ALT |
                         bindings = <
-   &bt BT_CLR &bt BT_SEL 0 &bt BT_SEL 1 &bt BT_SEL 2 &bt BT_SEL 3 &kp F12    &kp END  &kp trans &kp UP   &trans    &trans  &trans
+   &bt BT_CLR &bt BT_SEL 0 &bt BT_SEL 1 &bt BT_SEL 2 &bt BT_SEL 3 &kp F12    &kp END  &trans    &kp UP   &trans    &trans  &trans
    &bt BT_NXT &kp LALT     &kp LCTRL    &kp LSHFT    &trans       &kp CLCK   &kp HOME &kp LEFT  &kp DOWN &kp RIGHT &kp DEL &kp BSPC
    &trans     &kp K_UNDO   &kp UNDER    &kp K_COPY   &kp K_PASTE  &trans     &trans   &trans    &trans   &trans    &trans  &kp CLCK
                     	     &trans &trans   &trans   &trans   &trans    &trans
